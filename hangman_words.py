@@ -91,8 +91,6 @@ word_list = [
 'wheezy', 
 'whiskey', 
 'whizzing', 
-'whomever', 
-'wimpy', 
 'wizard', 
 'woozy', 
 'wristwatch', 
